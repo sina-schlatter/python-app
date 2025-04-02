@@ -14,7 +14,7 @@ applicationSet:
   replicas: 1
 
 global:
-  domain: sina-dev.labul.sva.de
+  domain: localhost
 
 certificate:
   enabled: true
