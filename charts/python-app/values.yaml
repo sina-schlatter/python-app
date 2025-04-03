@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: sina2012/python-app
   pullPolicy: IfNotPresent
-  tag: 3d722b
+  tag: 5fb9ab
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
